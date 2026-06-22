@@ -298,4 +298,7 @@ https://github.com/Harsh5102005/Smart-Interview-Prep
 
 ## Author
 
-Harsh
+Name: Harsh Maurya
+Email: harsh5102005@gmail.com
+LinkedIn: https://linkedin.com/in/harshmaurya5
+
